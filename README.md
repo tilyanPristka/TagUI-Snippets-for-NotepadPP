@@ -11,7 +11,8 @@
 - Copy the shortcut code from [TagUI-Shortcuts.xml](https://raw.githubusercontent.com/tilyanPristka/TagUI-Snippets-for-NotepadPP/main/TagUI-Shortcuts.xml) and paste it inside `<UserDefinedCommands>`
 
 ![image](https://user-images.githubusercontent.com/97102924/152634586-2218c45a-fae8-4aaa-9c21-aba776199092.png)
-![image](https://user-images.githubusercontent.com/97102924/152635006-77066fc7-b621-448a-8460-7c854bb3c4df.png)
+![image](https://user-images.githubusercontent.com/97102924/152635142-d5f32a57-ec94-4c3a-8563-e2670988f153.png)
+
 
 
 #### TagUI Snippets in Notepad++ ([TagUI-Snippets.sqlite](https://raw.githubusercontent.com/tilyanPristka/TagUI-Snippets-for-NotepadPP/main/TagUI-Snippets.sqlite))
