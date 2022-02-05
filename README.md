@@ -9,6 +9,7 @@
 #### Run TagUI Shortcut in Notepad++ ([TagUI-Shortcuts.xml](https://raw.githubusercontent.com/tilyanPristka/TagUI-Snippets-for-NotepadPP/main/TagUI-Shortcuts.xml))
 - Open `shortcut.xml` default file from Notepad++ in `%USERPROFILE%\AppData\Roaming\Notepad++`
 - Copy the shortcut code from [TagUI-Shortcuts.xml](https://raw.githubusercontent.com/tilyanPristka/TagUI-Snippets-for-NotepadPP/main/TagUI-Shortcuts.xml) and paste it inside `<UserDefinedCommands>`
+
 ![image](https://user-images.githubusercontent.com/97102924/152634586-2218c45a-fae8-4aaa-9c21-aba776199092.png)
 ![image](https://user-images.githubusercontent.com/97102924/152635006-77066fc7-b621-448a-8460-7c854bb3c4df.png)
 
