@@ -1,6 +1,6 @@
 <UserDefinedCommands>
-    <Command name="Run TagUIi" Ctrl="no" Alt="yes" Shift="yes" Key="84">cmd /K cd /D $(CURRENT_DIRECTORY) &amp;tagui $(FILE_NAME) -t&amp;exit</Command>
-    <Command name="Run TagUIi (Quiet)" Ctrl="no" Alt="yes" Shift="yes" Key="81">cmd /K cd /D $(CURRENT_DIRECTORY) &amp;tagui $(FILE_NAME) -t -q&amp;exit</Command>
-    <Command name="Run TagUIi (Headless)" Ctrl="no" Alt="yes" Shift="yes" Key="72">cmd /K cd /D $(CURRENT_DIRECTORY) &amp;tagui $(FILE_NAME) -t -h&amp;exit</Command>
-    <Command name="Run TagUIi (Headless and Quiet)" Ctrl="no" Alt="yes" Shift="yes" Key="82">cmd /K cd /D $(CURRENT_DIRECTORY) &amp;tagui $(FILE_NAME) -t -h -q&amp;exit</Command>
+    <Command name="Run TagUI" Ctrl="no" Alt="yes" Shift="yes" Key="84">cmd /K cd /D $(CURRENT_DIRECTORY) &amp;tagui $(FILE_NAME) -t&amp;exit</Command>
+    <Command name="Run TagUI (Quiet)" Ctrl="no" Alt="yes" Shift="yes" Key="81">cmd /K cd /D $(CURRENT_DIRECTORY) &amp;tagui $(FILE_NAME) -t -q&amp;exit</Command>
+    <Command name="Run TagUI (Headless)" Ctrl="no" Alt="yes" Shift="yes" Key="72">cmd /K cd /D $(CURRENT_DIRECTORY) &amp;tagui $(FILE_NAME) -t -h&amp;exit</Command>
+    <Command name="Run TagUI (Headless and Quiet)" Ctrl="no" Alt="yes" Shift="yes" Key="82">cmd /K cd /D $(CURRENT_DIRECTORY) &amp;tagui $(FILE_NAME) -t -h -q&amp;exit</Command>
 </UserDefinedCommands>
