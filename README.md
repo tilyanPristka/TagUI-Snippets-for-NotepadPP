@@ -19,6 +19,7 @@
 ![image](https://user-images.githubusercontent.com/97102924/152634586-2218c45a-fae8-4aaa-9c21-aba776199092.png)
 ![image](https://user-images.githubusercontent.com/97102924/152635142-d5f32a57-ec94-4c3a-8563-e2670988f153.png)
 
+&nbsp;
 
 #### TagUI Snippets in Notepad++ ([TagUI-Snippets.sqlite](https://raw.githubusercontent.com/tilyanPristka/TagUI-Snippets-for-NotepadPP/main/TagUI-Snippets.sqlite))
 - Adds the possibility to add code snippets to the current document by selecting them from a simple list.
