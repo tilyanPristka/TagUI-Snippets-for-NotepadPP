@@ -7,8 +7,8 @@
 <img src="https://user-images.githubusercontent.com/97102924/152540809-af1228f9-f6a6-4ec2-8c11-1535e3b648c0.png">
 
 - To import TagUI user define language go to Notepad++ ribbon `Language > User Define language > Define your language...` then click Import and select your TagUI-UserDefine.xml file.
-<img width="48%" align="left" src="https://user-images.githubusercontent.com/40910744/152932711-5a274cbc-399a-49b7-a7fe-a0c47962c53d.png">
-<img width="48%" align="right" src="https://user-images.githubusercontent.com/40910744/152933389-bd1ccea2-b778-4d27-88b9-0fb4d1d18943.png">
+<img src="https://user-images.githubusercontent.com/40910744/152932711-5a274cbc-399a-49b7-a7fe-a0c47962c53d.png">
+<img src="https://user-images.githubusercontent.com/40910744/152933389-bd1ccea2-b778-4d27-88b9-0fb4d1d18943.png">
 
 &nbsp;
 
